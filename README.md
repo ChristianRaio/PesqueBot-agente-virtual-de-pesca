@@ -3,7 +3,9 @@ PesqueBot: Seu Guia de Pesca no Bolso! 🎣
 Cansado de pescar e não levar nada pra casa? Conheça o PesqueBot, seu assistente virtual de pesca 24 horas por dia!
 
 Uma Ideia Que Veio de Casa
-A paixão pela pesca e a tecnologia se uniram! Meu pai, pescador experiente, me trouxe os desafios. Eu, como desenvolvedor de chatbots, criei a solução. O PesqueBot é o resultado da nossa parceria: a sabedoria da pesca com a inteligência artificial, pra te ajudar a ter mais sucesso na água!
+A paixão pela pesca e a tecnologia se uniram! Meu pai, pescador experiente, me trouxe os desafios.
+Eu, como desenvolvedor de chatbots, criei a solução.
+O PesqueBot é o resultado da nossa parceria: a sabedoria da pesca com a inteligência artificial, pra te ajudar a ter mais sucesso na água!
 
 Como o PesqueBot te Ajuda?
 Ele é seu "faz-tudo" da informação, respondendo a perguntas como:
